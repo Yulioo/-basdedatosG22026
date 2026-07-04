@@ -1,8 +1,5 @@
 # *Diccionario de Datos*
 
-
-
-
 # Diccionario de Datos Ejercicio 1
 
 ## 1. Información General
@@ -1280,6 +1277,6 @@ Relaciona a los profesores con los proyectos institucionales en los que particip
 ![Ejercicio6](../MR/MR6.png)
 
 # Fin del Documento
- |
+ 
 
 
